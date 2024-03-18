@@ -1,3 +1,5 @@
+## Problem 1
+
 Oh!! Mankind is in trouble again. This time, it's a deadly disease spreading at a rate never seen before. The need of the hour is to set up efficient virus detectors. You are the lead at Central Hospital and you need to find a fast and reliable way to detect the footprints of the virus DNA in that of the patient.
 
 The DNA of the patient as well as of the virus consists of lowercase letters. Since the collected data is raw, there may be some errors. You will need to find all substrings in the patient DNA that either exactly match the virus DNA or have at most one mismatch, i.e., a difference in at most one location.
@@ -75,3 +77,101 @@ For the first case, the substrings of  starting at indices  and  are "ga" and "g
 For the second case, the substrings of  starting at indices  and  are "cga" and "cga" and they are matching with the string  which is "cgg".
 
 For the third case, the substrings of  starting at indices ,  and  are "aa", "ar" and "ar" and they are matching with the string  which is "ab".
+
+## Problem 2
+
+Scope:-
+
+The scope of this task is to get a full functioning project. You can use any tech stack of your choice.
+
+Setup a project
+
+Login Form:-
+
+Following fields should be there:
+1. Phone Number/Email
+2. Password
+
+Note:-
+1. Proper validation on the fields is expected.
+2. Depending on the input data in field, the email or phone number validation should be there i.e. User should be able to login with email or phone number using the same input field.
+
+Required Functionality:
+1. LogIn Button
+2. Register Now Link
+3. Forget Password Link
+
+Registration Form:-
+
+Following fields should be there:
+1. Phone Number
+2. Email
+3. Password
+4. Confirm Password
+
+Note:- Proper validation on the fields is expected.
+
+Required Functionality:
+1. Register Now Button
+2. LogIn Link
+
+Forget Password Form:-
+
+Following fields should be there:
+1. Confirm Email id
+
+Note:- Proper validation on the fields is expected.
+
+Required Functionality:
+1. Send email functionality should be integrated to send OTP for verification.
+2. Send OTP Button
+
+OTP Verification:-
+
+Following fields should be there:
+1. Verify OTP
+
+Note:- Proper validation on the fields is expected.
+
+Required Functionality:
+1. Confirm OTP Button
+
+Confirm Password:-
+
+Following fields should be there:
+1. New Password
+2. Confirm Password
+
+Note:- Proper validation on the fields is expected.
+
+Required Functionality:
+1. Reset Password Button
+
+Dashboard:-
+
+Proper functioning dashboard with: 
+1. header
+2. drawer sidebar
+3. routing
+4. logout functionality
+5. view profile, etc
+
+Table Component (Optional):-
+
+A table with a list of expenses done by user with pagination, filter and search
+
+Table should contain following data:
+1. Expanse Name
+2. Expense Type (i.e. Food, Travel, Cloths, etc)
+3. Amount
+There should be an edit and delete button with full working functionality for every expense.
+There should be a create button with full working functionality for creating new expenses.
+
+Authentication:-
+
+Authentication should be done on all the routes, i.e. user should not be able to access the dashboard and its components without logging in.
+
+Note:-
+1. Expecting reusable components.
+2. You have freedom of design.
+3. You have freedom to implement any other functionality after completing the above given all the requirements.
