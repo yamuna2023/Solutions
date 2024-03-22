@@ -1,0 +1,30 @@
+.main-container{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  
+
+}
+  .container{
+    background-color: wheat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 350px;
+    border: 1px solid #c3c3c3;
+    margin: 5px;
+    flex-wrap: wrap;
+    
+  }
+  .headercontainer{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+  }

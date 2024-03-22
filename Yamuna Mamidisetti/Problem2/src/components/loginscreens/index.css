@@ -1,0 +1,45 @@
+.loginscreencontainer{
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+   flex:1;
+}
+.face-con{
+    margin-top: 60px;
+}
+.facebook-heading{
+    font-size: 15px;
+    font-weight: bold;
+    color: brown;
+    
+}
+.loginscreencontainer2{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 20%;
+    border-radius: 7px;
+    border: 0.5px solid rgb(194, 198, 202);
+    height: auto;
+   padding: 20px;
+}
+
+.loginheading{
+    font-size: small;
+    font-weight: normal;
+    color: black;
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.last-con{
+    margin-top: 15px;
+    font-size: 12px;
+    font-weight: normal;
+}

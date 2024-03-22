@@ -1,0 +1,41 @@
+.Notfound{
+    background-color: darkgray;
+    font-size: larger;
+   }
+   
+.face-con{
+    margin-top: 60px;
+}
+.facebook-heading{
+    font-size: 15px;
+    font-weight: bold;
+    color: brown;
+    
+}
+
+.commonparagraph{
+    font-size: small;
+    color: black;
+   margin-left: 30px; 
+    margin-top: 10px;
+    margin-bottom: 2PX;
+    font-weight: 500;
+}
+.startext{
+    color: red;
+}
+.commontextinpustyle{
+    background-color: white;
+    color: #fff;
+    border: 0.5px;
+    outline: navy;
+    height: 20px;
+    color: #0f172a;
+    border-radius: 2px;
+    width: 85%;
+    flex: 1;
+    padding: 7px;
+    border: 0.5px solid rgb(194, 198, 202);
+
+}
+
